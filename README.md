@@ -1,5 +1,5 @@
 # PARs
-PARs: Predicate-based Association Rules for Efficient and Precise Model-Agnostic Anomaly Explanation
+PARs: Predicate-based Association Rules for Efficient and Accurate Model-Agnostic Anomaly Explanation
 
 
 
@@ -9,7 +9,7 @@ Download dataset files from https://github.com/Minqi824/ADBench/tree/main/datase
 
 
 
-#### Run experiments for reliability and efficiency study
+#### Run experiments for efficiency and accuracy study of explanation rules
 ```shell
 cd experiments
 python main_rel_eff_study.py --admodel <model>
