@@ -1,5 +1,7 @@
-# PARs
-PARs: Predicate-based Association Rules for Efficient and Accurate Model-Agnostic Anomaly Explanation
+# PARs-Exp
+This repository includes the scripts for running experiments in CIKM '24 papaper: 
+
+PARs: Predicate-based Association Rules for Efficient and Accurate Anomaly Explanation
 
 
 
