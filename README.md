@@ -7,7 +7,7 @@ Conference on Information and Knowledge Management (CIKM ’24), October
 21–25, 2024, Boise, ID, USA. ACM, New York, NY, USA, 10 pages. https:
 //doi.org/10.1145/3627673.3679625
 
-
+The standalone Python package for PARs is at available at https://github.com/cfeng783/PARs.
 
 #### Data preparation
 
