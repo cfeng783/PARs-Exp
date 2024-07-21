@@ -1,7 +1,11 @@
 # PARs-Exp
-This repository includes the scripts for running experiments in CIKM '24 papaper: 
+This repository includes the scripts for running experiments in the papaper: 
 
-PARs: Predicate-based Association Rules for Efficient and Accurate Anomaly Explanation
+Cheng Feng. 2024. PARs: Predicate-based Association Rules for Efficient and
+Accurate Anomaly Explanation. In Proceedings of the 33rd ACM International
+Conference on Information and Knowledge Management (CIKM ’24), October
+21–25, 2024, Boise, ID, USA. ACM, New York, NY, USA, 10 pages. https:
+//doi.org/10.1145/3627673.3679625
 
 
 
