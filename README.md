@@ -1,5 +1,5 @@
 # PARs-Exp
-This repository includes the scripts for running experiments in the papaper: 
+This repository includes the scripts for running experiments in the paper: 
 
 Cheng Feng. 2024. PARs: Predicate-based Association Rules for Efficient and
 Accurate Anomaly Explanation. In Proceedings of the 33rd ACM International
